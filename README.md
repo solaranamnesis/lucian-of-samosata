@@ -13,7 +13,7 @@ Latin - PDF
 
 ## A True Story (Ἀληθῆ Διηγήματα).
 
-Greek - Plain Text  
+[Greek - Plain Text](true-story/full-text-greek.md)  
 Greek - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom  
 Latin - Plain Text  
 Latin - PDF  
