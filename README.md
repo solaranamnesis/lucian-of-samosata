@@ -28,3 +28,39 @@ Latin - Plain Text
 Latin - PDF  
 English - Plain Text  
 English - PDF  
+
+## Double Inditement.
+
+Greek - Plain Text  
+Greek - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom  
+Latin - Plain Text  
+Latin - PDF  
+English - Plain Text  
+English - PDF  
+
+## Dialogues of the Sea Gods.
+
+Greek - Plain Text  
+Greek - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom  
+Latin - Plain Text  
+Latin - PDF  
+English - Plain Text  
+English - PDF  
+
+## Dialogues of the Dead.
+
+Greek - Plain Text  
+Greek - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom  
+Latin - Plain Text  
+Latin - PDF  
+English - Plain Text  
+English - PDF  
+
+## Dialogues of Courtesans.
+
+Greek - Plain Text  
+Greek - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom  
+Latin - Plain Text  
+Latin - PDF  
+English - Plain Text  
+English - PDF  
