@@ -19,3 +19,12 @@ Latin - Plain Text
 Latin - PDF  
 English - Plain Text  
 English - PDF  
+
+## Philopseudes (Φιλοψευδὴς ἢ Ἀπιστῶν).
+
+Greek - Plain Text  
+Greek - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom  
+Latin - Plain Text  
+Latin - PDF  
+English - Plain Text  
+English - PDF  
