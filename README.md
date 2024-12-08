@@ -64,3 +64,12 @@ Latin - Plain Text
 Latin - PDF  
 English - Plain Text  
 English - PDF  
+
+## Hermotimus.
+
+Greek - Plain Text  
+Greek - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom  
+Latin - Plain Text  
+Latin - PDF  
+English - Plain Text  
+English - PDF  
