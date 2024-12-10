@@ -8,3 +8,6 @@ Latin - Plain Text
 Latin - PDF  
 English - Plain Text  
 English - PDF  
+
+
+Images modified by Solar Anamnesis CC0, attribution: François-Louis Schmied and 
