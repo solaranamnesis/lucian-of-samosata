@@ -14,7 +14,7 @@ Latin - PDF
 ## True Story (Αληθούς Ιστορίας).
 
 [Greek - Plain Text](true-story/full-text-greek.md)  
-[Greek - PDF](https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek.pdf) | [FBB](https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_fbb.pdf) | [Fourier](https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_fourier.pdf) | [Kerkis](https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_kerkis.pdf) | [Custom01](https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_custom01.pdf) | [Custom03](https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_custom03.pdf) | [Custom04](https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_custom04.pdf)  
+[Greek - PDF](https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek.pdf) | [NeoHellenic](https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_neohellenic.pdf) | [FBB](https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_fbb.pdf) | [Fourier](https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_fourier.pdf) | [Kerkis](https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_kerkis.pdf) | [Custom01](https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_custom01.pdf) | [Custom03](https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_custom03.pdf) | [Custom04](https://cdn.solaranamnesis.com/Lucian/TrueStory/lucian_true_story_180_greek_custom04.pdf)  
 Latin - Plain Text  
 Latin - PDF  
 English - Plain Text  
