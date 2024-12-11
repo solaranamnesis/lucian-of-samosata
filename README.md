@@ -5,7 +5,7 @@ Public Domain Works of Lucian of Samosata (125-after 180).
 ## On the Syrian Goddess (Περὶ τῆς Συρίης Θεοῦ).
 
 [Greek - Plain Text](on-the-syrian-goddess/full-text-greek.md)  
-Greek - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom  
+Greek - PDF | NeoHellenic | FBB | Fourier | Kerkis | Custom01 | Custom03 | Custom04  
 Latin - Plain Text  
 Latin - PDF  
 [English - Plain Text](https://github.com/solaranamnesis/herbert-augustus-strong/blob/main/the-syrian-goddess/full-text-english.md)  
@@ -23,7 +23,7 @@ English - PDF
 ## Philopseudes (Φιλοψευδὴς ἢ Ἀπιστῶν).
 
 Greek - Plain Text  
-Greek - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom  
+Greek - PDF | NeoHellenic | FBB | Fourier | Kerkis | Custom01 | Custom03 | Custom04  
 Latin - Plain Text  
 Latin - PDF  
 English - Plain Text  
@@ -32,7 +32,7 @@ English - PDF
 ## Double Inditement.
 
 Greek - Plain Text  
-Greek - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom  
+Greek - PDF | NeoHellenic | FBB | Fourier | Kerkis | Custom01 | Custom03 | Custom04  
 Latin - Plain Text  
 Latin - PDF  
 English - Plain Text  
@@ -41,7 +41,7 @@ English - PDF
 ## Dialogues of the Sea Gods.
 
 Greek - Plain Text  
-Greek - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom  
+Greek - PDF | NeoHellenic | FBB | Fourier | Kerkis | Custom01 | Custom03 | Custom04  
 Latin - Plain Text  
 Latin - PDF  
 English - Plain Text  
@@ -50,7 +50,7 @@ English - PDF
 ## Dialogues of the Dead.
 
 Greek - Plain Text  
-Greek - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom  
+Greek - PDF | NeoHellenic | FBB | Fourier | Kerkis | Custom01 | Custom03 | Custom04  
 Latin - Plain Text  
 Latin - PDF  
 English - Plain Text  
@@ -59,7 +59,7 @@ English - PDF
 ## Dialogues of Courtesans.
 
 Greek - Plain Text  
-Greek - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom  
+Greek - PDF | NeoHellenic | FBB | Fourier | Kerkis | Custom01 | Custom03 | Custom04  
 Latin - Plain Text  
 Latin - PDF  
 English - Plain Text  
