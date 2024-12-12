@@ -5,7 +5,7 @@ Public Domain Works of Lucian of Samosata (125-after 180).
 ## On the Syrian Goddess (Περὶ τῆς Συρίης Θεοῦ).
 
 [Greek - Plain Text](on-the-syrian-goddess/full-text-greek.md)  
-Greek - PDF | NeoHellenic | FBB | Fourier | Kerkis | Custom01 | Custom03 | Custom04  
+[Greek - PDF](https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek.pdf) | [NeoHellenic](https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_neohellenic.pdf) | [FBB](https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_fbb.pdf) | [Fourier](https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_fourier.pdf) | [Kerkis](https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_kerkis.pdf) | [Custom01](https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom01.pdf) | [Custom03](https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom03.pdf) | [Custom04](https://cdn.solaranamnesis.com/Lucian/DeaSyria/lucian_dea_syria_180_greek_custom04.pdf)  
 Latin - Plain Text  
 Latin - PDF  
 [English - Plain Text](https://github.com/solaranamnesis/herbert-augustus-strong/blob/main/the-syrian-goddess/full-text-english.md)  
