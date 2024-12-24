@@ -73,3 +73,12 @@ Latin - Plain Text
 Latin - PDF  
 English - Plain Text  
 English - PDF  
+
+## Lucius or the Ass (Λούκιος ἢ Ὄνος).
+
+[Greek - Plain Text](lucius-or-the-ass/full-text-greek.md)  
+Greek - PDF | Biolinum | Atkinson | Cursive | Kerkis | Custom  
+Latin - Plain Text  
+Latin - PDF  
+English - Plain Text  
+English - PDF  
