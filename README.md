@@ -1,6 +1,6 @@
 # Lucian of Samosata.
 
-Public Domain Works of Lucian of Samosata (125-after 180).
+Public Domain Works of Lucian (Λουκιανός) of Samosata (125-after 180).
 
 ## On the Syrian Goddess (Περὶ τῆς Συρίης Θεοῦ).
 
