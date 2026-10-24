@@ -20,6 +20,15 @@ Latin - PDF
 English - Plain Text  
 English - PDF  
 
+## Μένιππος ἢ Νεκυομαντεία.
+
+Greek - Plain Text  
+Greek - PDF | NeoHellenic | FBB | Fourier | Kerkis | Custom01 | Custom03 | Custom04  
+Latin - Plain Text  
+Latin - PDF  
+English - Plain Text  
+English - PDF  
+
 ## Philopseudes (Φιλοψευδὴς ἢ Ἀπιστῶν).
 
 Greek - Plain Text  
